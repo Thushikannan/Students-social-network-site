@@ -1,0 +1,245 @@
+.navigation{
+    background-color:#1B2A47;
+    color: white;
+     
+}
+.searchbox{
+    background-color:#1B2A47 ;
+    color: white;
+    width: 100%;
+   
+}
+.contanierSearchBox{
+    background-color:#1B2A47 ;
+    color:black;
+    width: 80%;
+}
+.linkbox{
+    color: rgb(7, 7, 7);   
+    font-size: medium;
+}
+.tapContent{
+    margin-top:10px;
+    background-color:#1B2A47;
+    color: white; 
+    width: 100%; 
+}
+
+.contanier{
+    margin-top:10px;
+    background-color:#1B2A47;
+    color: white; 
+    width: 100%;
+}
+
+.contanierMap{
+    margin-top:10px;
+    background-color:#1B2A47;
+    color: white; 
+    width: 100%;
+    height:450px;
+}
+.contanierPost{
+    margin-top:10px;
+    background-color:#1B2A47;
+    color: white; 
+    width: 100%;
+    
+}
+
+.box{
+    margin-top:10px;
+    background-color:#1B2A47;
+    color: black; 
+    width: 100%;
+}
+.viewButton{
+    color: black;
+    background-color:#1B2A47;
+    border-radius:15px;
+}
+
+.viewButton2{
+    color: white;
+    background-color:#1B2A47;
+    border-radius:15px;
+}
+
+.viewButtonAdd{
+    color: white;
+    background-color:#1B2A47;
+    border-radius:15px;
+}
+
+.viewButtonDe{
+    color: white;
+    background-color:#1B2A47;
+    border-radius:15px;
+}
+.viewButton:hover{
+    background-color:black;
+    border:2px solid red;
+    border-radius:15px;
+    color: white;
+}
+
+.viewButtonAdd:hover{
+    background-color:black;
+    border:2px solid rgb(6, 243, 152);
+    border-radius:15px;
+    color: white;
+}
+
+.viewButtonDe:hover{
+    background-color:black;
+    border:2px solid red;
+    border-radius:15px;
+    color: white;
+}
+
+.active{
+    background-color:black;
+    border:2px solid red;
+    border-radius:15px;
+    color: white;
+}
+
+
+.co{
+    color: white;
+}
+.img-box{
+   border-radius:10px;
+   width:100%;
+   height:150px;
+   border:5px solid white; 
+   align-content: center;
+   margin-top:5%;
+   margin-bottom:5%; 
+}
+
+.loginreecha{
+    color:white;
+    font-size: 100px;
+    align-content: center;
+}
+.world{
+    margin-top:100px;
+    width:80%;
+    height:80%;
+    margin-left:20px;
+}
+
+@media(max-width:768px){
+    .world{
+        margin-top:10px;
+        width:80%;
+        height:90%;
+    }
+
+    .loginreecha{
+        margin-top:-60px;
+        color:white;
+        font-size:40px;
+        align-content: center;
+        margin-left:30%;
+    }
+}
+
+.hrline{
+    height:5px;
+    width: 100%;
+    background-color: white;
+}
+.loginLable{
+   color: white;
+   font-size:20px;
+}
+
+.logoLogin{
+    width:70%;
+    height:40%;
+}
+.visionBox{
+    margin-left:0px;
+    margin-top: 10px;
+   
+}
+.postimmg{
+    width:50%;
+    height:50%;
+}
+.cardImage{
+    width:2px;
+    height:50px;
+}
+
+.cardbody{
+    color:white;
+    background-color: #152036;
+}
+.cardbodyx{
+    color:white;
+    background-color: #152036;
+    height:70px;
+}
+.NoticBox{
+    margin-top:10px;
+    background-color:#1B2A47;
+    color: white; 
+    width:80%;  
+    height:60px; 
+}
+.NoticBoxn{
+    margin-top:10px;
+    background-color:#1B2A47;
+    color: white; 
+    width:80%;  
+}
+.NoticBoxnn{
+    margin-top:10px;
+    background-color:#1B2A47;
+    color: white; 
+    width:70%;  
+}
+.PostBox{
+    margin-top:10px;
+    background-color:#1B2A47;
+    color:white; 
+    width:80%;  
+}
+.contanierSlid{
+    margin-top:10px;
+    background-color:#1B2A47;
+    color: white; 
+    width: 100%;
+    height:60px; 
+}
+.logi_error{
+    color: red;
+}
+.clock{
+    color: rgb(193, 194, 199);
+    text-align:center;
+}
+.clock_date{
+    color: rgb(193, 194, 199);
+    text-align:left;
+    background-color: #1B2A47;
+    border: 0cm; 
+    width:180px;
+    font-size: 30px;
+    margin-top:10px;
+}
+.slider_image{
+    width:400px;
+    height:230px;
+    
+}
+
+@media(max-width:768px){
+    .slider_image{
+        width:350px;
+        height:200px;
+    }
+}
